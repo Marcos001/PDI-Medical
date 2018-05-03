@@ -20,3 +20,19 @@ content provided, providing a greater understanding of the learning with practic
 cations, arousing greater interest and new ideas for applications in the most varied areas
 of knowledge.  
 </p>
+
+### Citação 
+
+@ARTICLE {marcos_enu_PDI_2017,
+author = "Marcos Vinícius dos Santos Ferreira, Edson Damasceno Carvalho, Antonio Oseas de Carvalho Filho, Alcilene Dalília de Sousa",
+title = "Processamento Digital de Imagens Médicas com Python e OpenCV",
+journal = "Anais Eletrônicos ENUCOMP 2017",
+year = "2017",
+volume = "10",
+pages = "685-708",
+month = "nov"
+}
+
+<br>
+
+<a href="https://github.com/Marcos001/PDI-Medical/blob/master/cap%C3%ADtulo_PDI.pdf"> PDF of chapter book </a>
