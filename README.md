@@ -1,8 +1,9 @@
 # PDI-Medical
 # Minicurso Processamento Digital de Imagens Médicas com Python e OpenCV
 
-* Marcos Vinícius dos Santos Ferreira, Edson Damasceno Carvalho, Antonio
-Oseas de Carvalho Filho e Alcilene Dalília de Sousa
+### Marcos Vinícius dos Santos Ferreira, Edson Damasceno Carvalho, Antonio Oseas de Carvalho Filho e Alcilene Dalília de Sousa
+
+### Abstract
 
 <p>
 In the medical field, many anomalies are diagnosed from digital images. Early detection
