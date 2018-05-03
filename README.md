@@ -23,15 +23,15 @@ of knowledge.
 
 ### Citação 
 
-@ARTICLE {marcos_enu_PDI_2017,
-author = "Marcos Vinícius dos Santos Ferreira, Edson Damasceno Carvalho, Antonio Oseas de Carvalho Filho, Alcilene Dalília de Sousa",
-title = "Processamento Digital de Imagens Médicas com Python e OpenCV",
-journal = "Anais Eletrônicos ENUCOMP 2017",
-year = "2017",
-volume = "10",
-pages = "685-708",
-month = "nov"
-}
+@ARTICLE {marcos_enu_PDI_2017,<br>
+author = "Marcos Vinícius dos Santos Ferreira, Edson Damasceno Carvalho, Antonio Oseas de Carvalho Filho, Alcilene Dalília de Sousa",<br>
+title = "Processamento Digital de Imagens Médicas com Python e OpenCV",<br>
+journal = "Anais Eletrônicos ENUCOMP 2017",<br>
+year = "2017",<br>
+volume = "10",<br>
+pages = "685-708",<br>
+month = "nov"<br>
+}<br>
 
 <br>
 
